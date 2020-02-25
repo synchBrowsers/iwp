@@ -1,4 +1,4 @@
 # iwp
 
-## git clone link
-## bash iwp/index.sh
+### git clone https://github.com/synchBrowsers/iwp.git
+### bash iwp/index.sh
